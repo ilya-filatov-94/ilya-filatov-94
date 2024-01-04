@@ -48,32 +48,19 @@ I am a development engineer with 6 years of experience programming logic control
   </div>
 
 ---
-
 <div align="center">
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
----
-
-
-Profile details card
+### Profile details card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-filatov-94&theme=nord_bright)
-### Top languages used in the repositories:
+## Top languages used in the repositories:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilya-filatov-94&theme=nord_bright)
-### Top languages in commits:
+## Top languages in commits:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilya-filatov-94&theme=nord_bright)
-### GitHub stats:
+## GitHub stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-filatov-94&theme=nord_bright&)
-### Productive time:
+## Productive time:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-filatov-94&theme=nord_bright&utcOffset=8)
 
 
----
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
