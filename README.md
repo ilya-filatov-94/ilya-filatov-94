@@ -71,6 +71,11 @@ I am a development engineer with 6 years of experience programming logic control
   </tr>
 </table>
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 
 
 
