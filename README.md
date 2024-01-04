@@ -1,7 +1,7 @@
 ## About me
 Hi, I'm Ilya. 👋
 
-I am a development engineer with 5 years of experience programming logic controllers and programming graphical touch displays. I am currently working and studying frontend software development. I’m also learning some backend technologies on Node JS. Currently I am working as a React frontend-developer and studying the framework Next JS.
+I am a development engineer with 5 years of experience programming logic controllers and programming graphical touch displays. I became interested in web development and learned JavaScript and TypeScript. Currently I am working as a React frontend-developer and continue to study new technologies (I'm currently studying Next JS and interested in the backend on the Node JS).
 
 ### 💻 Languages and technologies:
 
