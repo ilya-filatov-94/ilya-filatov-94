@@ -72,8 +72,7 @@ I am a development engineer with 6 years of experience programming logic control
 </table>
 
 | ### ⚙️ GitHub статистика:      |
-| :---         |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-filatov-94&theme=nord_bright)     |
+| :---         |     :---:      |
 | git status   | git status     |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-filatov-94&theme=nord_bright&)     | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-filatov-94&theme=nord_bright)     |
 
