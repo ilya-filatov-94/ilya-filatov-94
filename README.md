@@ -79,8 +79,8 @@ I am a development engineer with 6 years of experience programming logic control
 
 ---
 
-| ###⚙️ GitHub статистика: |
-| -------------------------- |
+| ⚙️ GitHub статистика: | |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
