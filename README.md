@@ -63,7 +63,7 @@ I am a development engineer with 6 years of experience programming logic control
   </tr>
   <tr>
     <td>
-      ячейка
+      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilya-filatov-94&theme=nord_bright)
     </td>
     <td>
       ячейка
